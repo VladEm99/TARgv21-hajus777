@@ -13,6 +13,5 @@ with:
 	body: ${{github.repository}} ${{github.event.pusher.name}}
 	to: em.vladichek@gmail.com
 	from: Github actions
-	x
 
 
